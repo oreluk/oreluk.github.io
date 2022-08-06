@@ -12,15 +12,15 @@ author_profile: true
 {% include base_path %}
 
 [Bayesian model calibration for vacuum-ultraviolet photoionisation mass spectrometry](https://www.tandfonline.com/doi/full/10.1080/13647830.2022.2030495) \\
-(CTM 2022) \\
+(Combustion Theory and Modelling 2022) \\
 **J Oreluk**, L Sheps, H Najm
  
 [Does a reduced model reproduce the uncertainty of the original full-size model?](https://www.sciencedirect.com/science/article/pii/S0010218020305381) \\
-(CNF 2021) \\
+(Combustion and Flame 2021) \\
 Z Liu, W Li, **J Oreluk**, A Hegde, A Packard, M Frenklach
 
 [Representing model discrepancy in Bound-to-Bound Data Collaboration.](https://epubs.siam.org/doi/abs/10.1137/19M1270185) \\
-(JUQ 2021) \\
+(SIAM JUQ 2021) \\
 W Li, A Hegde, **J Oreluk**, A Packard, M Frenklach
 
 [Role of experimental data in validating and quantifying uncertainties in complex physical systems](https://escholarship.org/uc/item/1x54331b) \\
@@ -40,5 +40,5 @@ S Iavarone, **J Oreluk**, S Smith, A Hegde, W Li, A Packard, M Frenklach, P Smit
 **J Oreluk**, C Needham, S Baskaran, S Sarathy, M Burke, R West, M Frenklach, P Westmoreland
 
 [Consistency Analysis for Massively Inconsistent Datasets in Bound-to-Bound Data Collaboration](https://epubs.siam.org/doi/10.1137/16M1110005) \\
-(JUQ 2018) \\
+(SIAM JUQ 2018) \\
 A Hegde, W Li, **J Oreluk**, A Packard, M Frenklach
