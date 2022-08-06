@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jim Oreluk"
   avatar           : "profile.png"
-  bio              : "Current postdoc at Sandia National Labs. Works on uncertainty quantification, machine learning, and optimal decision making."
+  bio              : "Current postdoc at Sandia National Labs. Works on uncertainty quantification, machine learning, and decision making under uncertainty."
   location         : "Berkeley, CA"
   employer         :
   pubmed           : 
