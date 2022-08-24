@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=8qmv4EAAAAAJ&hl=en"
-  email            : 
+  email            : "'jim.oreluk'.__add__(' [at] gmail.com')" 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
