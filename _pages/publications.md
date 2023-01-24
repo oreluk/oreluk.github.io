@@ -11,6 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
+[Genetic algorithm optimization of a master equation cyclopentane oxidation model against time-resolved speciation experiments](https://www.sciencedirect.com/science/article/abs/pii/S0010218022005156) \\
+(Combustion and Flame, 2022) \\
+M Demireva, **J Oreluk**, A Dewyer J Zádor L Sheps
+
 [Bayesian model calibration for vacuum-ultraviolet photoionisation mass spectrometry](https://www.tandfonline.com/doi/full/10.1080/13647830.2022.2030495) \\
 (Combustion Theory and Modelling, 2022) \\
 **J Oreluk**, L Sheps, H Najm
