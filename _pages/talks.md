@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 # 2022
-* Advanced Light Source, Lawrence Berkeley National Laborartory. *Learning Optimal Experimental Designs for High-dimensional Combustion Experiments*. (Invited) 
+* Advanced Light Source, Lawrence Berkeley National Laboratory. *Learning Optimal Experimental Designs for High-dimensional Combustion Experiments*. (Invited) 
 * Int. Conf. on Numerical Combustion 18. *Efficient Bayesian optimal experimental designs for photoionization mass spectrometry experiments*. (Invited)
 * SIAM UQ 22. *Exploring Bayesian optimal experimental designs for high-dimensional combustion systems*. (Invited)
 
