@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Organizing
-* Minisymposium Chair \& Organizer,  "Optimal Experimental Designs" at SIAM CSE23, 2023
+* Minisymposium Organizer & Chair, "*Optimal Experimental Designs*" at SIAM CSE23 (2023)
 
 ## Reviewing
 * Department of Energy Office of Science, SBIR 
