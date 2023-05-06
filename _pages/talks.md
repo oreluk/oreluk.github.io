@@ -7,9 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
+# 2023 
+* Defense and Aerospace Test and Analysis Workshop 2023. *Bayesian Optimal Experimental Designs for High-Dimensional Physics-based Models*. (Invited)
+* SIAM Computational Science and Engineering 23. *Challenges in Bayesian Opitmal Experimental Design for High-dimensional Models*. (Invited)
+
 # 2022
 * Advanced Light Source, Lawrence Berkeley National Laboratory. *Learning Optimal Experimental Designs for High-dimensional Combustion Experiments*. (Invited) 
-* Int. Conf. on Numerical Combustion 18. *Efficient Bayesian optimal experimental designs for photoionization mass spectrometry experiments*. (Invited)
+* Int. Conf. on Numerical Combustion 18. *Where to measure next? Optimal experimental designs for photoionization mass spectrometry experiments*. (Invited)
 * SIAM UQ 22. *Exploring Bayesian optimal experimental designs for high-dimensional combustion systems*. (Invited)
 
 ## 2021
