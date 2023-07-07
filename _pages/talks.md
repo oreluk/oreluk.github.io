@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 # 2023 
-* Defense and Aerospace Test and Analysis Workshop 2023. *Bayesian Optimal Experimental Designs for High-Dimensional Physics-based Models*. (Invited)
+* Defense and Aerospace Test and Analysis Workshop 2023. *A Bayesian Optimal Experimental Design for High-Dimensional Physics-based Models*. (Invited)
 * SIAM Computational Science and Engineering 23. *Challenges in Bayesian Opitmal Experimental Design for High-dimensional Models*. (Invited)
 
 # 2022
