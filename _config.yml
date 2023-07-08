@@ -315,15 +315,3 @@ compress_html:
   ignore:
     envs: development
 
-
-# Don't include all the files from `folder_to_exclude` in the sitemap
-- scope:
-    path:            folder_to_exclude/**
-  values:
-    sitemap:         false
-
-# Don't include `file_name_to_exclude.file_extension` in the sitemap
-- scope:
-    path:            file_name_to_exclude.file_extension
-  values:
-    sitemap:         false
