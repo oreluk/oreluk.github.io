@@ -9,7 +9,7 @@ author_profile: true
 
 ## 2023 
 * Defense and Aerospace Test and Analysis Workshop 2023. *A Bayesian Optimal Experimental Design for High-Dimensional Physics-based Models*. (Invited) *[Video](https://www.youtube.com/watch?v=cIPyJLoyi2I)*
-* SIAM Computational Science and Engineering 23. *Challenges in Bayesian Opitmal Experimental Design for High-dimensional Models*. (Invited)
+* SIAM Computational Science and Engineering 23. *Challenges in Bayesian Optimal Experimental Design for High-dimensional Models*. (Invited)
 
 ## 2022
 * Advanced Light Source, Lawrence Berkeley National Laboratory. *Learning Optimal Experimental Designs for High-dimensional Combustion Experiments*. (Invited) 
